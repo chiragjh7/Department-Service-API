@@ -6,7 +6,7 @@ Created a Department Service API and added REST Architecture using Spring boot, 
  `Spring boot`
  `Spring Web`
  `Spring Data JPA`
- `H2 Database`
+ `MySQL Database`
  `Postman`
     
 
